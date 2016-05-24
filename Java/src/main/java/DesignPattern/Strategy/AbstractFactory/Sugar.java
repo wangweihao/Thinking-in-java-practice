@@ -1,0 +1,8 @@
+package DesignPattern.Strategy.AbstractFactory;
+
+/**
+ * Created by wwh on 16-5-24.
+ */
+public interface Sugar {
+    public void eat();
+}
